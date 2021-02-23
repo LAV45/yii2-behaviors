@@ -42,9 +42,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "0.6.x-dev"
-        },
         "composer-exit-on-patch-failure": true,
         "patches": {
             "phpunit/phpunit": {
